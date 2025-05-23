@@ -119,7 +119,7 @@ print("Reg NO: 212223230225")
 ### CUSTOMER SEGMENT:
 
 
-![image](https://github.com/user-attachments/assets/516b0e0f-b981-4a1b-be78-b4e4e83028c0)
+![image](https://github.com/user-attachments/assets/d8666321-cf5e-4c78-9cc1-a5a5486b57a8)
 
 
 
