@@ -77,8 +77,8 @@ plt.scatter(df3["Annual Income (k$)"],df3["Spending Score (1-100)"],c="blue",lab
 plt.scatter(df4["Annual Income (k$)"],df4["Spending Score (1-100)"],c="green",label="cluster4")
 plt.legend()
 plt.title("Customer Segments")
-print("Name:TAMIZHSELVAN B")
-print("Reg NO: 212223230225")
+print("Name:EASWAR R")
+print("Reg NO: 212223230053")
 
 ```
 
